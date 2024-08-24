@@ -1,0 +1,100 @@
+
+
+I need to create webpage name lakshyaSecurity. 
+This wepage will provide services to take following services at home.
+maid, gardner, driver, security, nurse, corier and parcel services and other helper thinks at home.
+
+Use code in htlm, css, javascript and python to create frontend and backend in future coding and debugging purpuse.
+use best posible css and HTML to create beautiful page.
+
+First create landmark page. 
+1.  write a Tailwind CSS code to build a landing page.
+2.  in landingpage header, **navigation bar**(level home, and others), make it a more beautiful design. Also, add login level. use hover to change the curser, the color of all levels, and increase the font format,size little increase while move curser on it. .
+3.  in navigation bar, when curser move to its level, I also want format of level change when hover. Also find size little inceare on hover.
+
+
+lakshyaSecurity.. Personalized Solutions with Peace of Mind, Guaranteed, Trusted and Reliable.
+
+"Peace of Mind" Write beautiful lines around 50 words, So customer will impress. This related to services of my webpage.
+Experience the tranquility of a home where every detail is taken care of. Our dedicated team ensures your peace of mind, allowing you to focus on what matters most.
+
+
+I want t create a html page which have services information in details.
+Create one div-containor of grid type. Which hold div-services grid item.
+Each div-services have information of one services, like his photo, name, details and button book-Now.
+
+each div-services width is 200px, Height is 100px. 
+If information inside more then create a scroll bar to show detail. 
+I can add any number of div-services inside div-containor. 
+Each div-services come in a row, As responsive webpage, each div-instructor settle in column.
+
+As I told you, div-services have fixed width=300px, height=300px. 
+If I add more information inside div-instructor, then that shown with scroll 
+bar attached with each div-instructor.
+
+one change, scroll bar in not for div-services, Its apply to only other details only.
+
+div-containor margin left=10% right=10%, Padding of each item 100px; just tell me what to update container in css. 
+
+
+
+
+Household Management
+Housekeeping: General cleaning, tidying, laundry, and ironing
+Cooking: Preparing meals, snacks, and beverages
+Pet care: Walking, feeding, grooming, and playing with pets
+Errand running: Grocery shopping, picking up prescriptions, and other errands
+Home organization: Decluttering, organizing closets, and storage spaces
+Event planning: Assisting with party planning, decorations, and catering
+
+Maintenance and Repairs
+Gardening: Lawn mowing, trimming, planting, and weeding
+Plumbing: Fixing leaks, unclogging drains, and installing fixtures
+Electrical work: Installing light fixtures, outlets, and switches
+Painting: Interior and exterior painting
+Carpentry: Building, repairing, and installing furniture and fixtures
+Cleaning services: Deep cleaning, carpet cleaning, window cleaning
+
+Personal Care and Assistance
+Personal grooming: Hair styling, manicures, pedicures, and makeup
+Elderly care: Assisting with daily living activities, medication management, and companionship
+Childcare: Babysitting, tutoring, and childcare services
+Home health care: Nursing care, physical therapy, and occupational therapy
+Massage therapy: Relaxing and therapeutic massages
+Personal training: Fitness instruction and exercise programs
+Technology and Home Automation
+Computer support: Troubleshooting, software installation, and data backup
+Home automation: Setting up smart home devices and systems
+Website design and development: Creating and maintaining websites
+Graphic design: Designing logos, brochures, and other visuals
+Specialized Services
+Pest control: Exterminating pests such as insects, rodents, and termites
+Window cleaning: Cleaning interior and exterior windows
+Carpet cleaning: Deep cleaning carpets and upholstery
+Pool maintenance: Cleaning, filtering, and maintaining pools
+Tree trimming and removal: Pruning and removing trees
+Snow removal: Clearing snow from driveways and sidewalks
+Furniture assembly: Assembling furniture and other items
+Moving services: Packing, loading, transporting, and unpacking belongings
+Additional Services
+Home security: Installing and monitoring security systems
+Home cleaning: Regular cleaning of various areas in the home
+Laundry and ironing: Washing, drying, and ironing clothes and linens
+Grocery shopping: Purchasing groceries and other household items
+Pet sitting: Caring for pets in their own homes
+Tutoring: Providing academic assistance in various subjects
+Event planning: Assisting with planning and organizing events
+Home staging: Preparing homes for sale or rent
+Interior design: Designing and decorating interior spaces
+Personal shopping: Assisting with clothing and other purchases
+Car detailing: Cleaning and detailing vehicles
+Vehicle maintenance: Oil changes, tire rotations, and other maintenance tasks
+Home repairs: Fixing minor repairs around the house
+Home renovations: Remodeling and renovating homes
+Home inspections: Inspecting homes for potential problems
+Property management: Managing rental properties
+Yard work: Maintaining lawns, gardens, and other outdoor spaces
+Cleaning services: Cleaning offices, commercial spaces, or other locations
+Remodeling services: Updating and modernizing homes or businesses
+Concierge services: Providing personalized assistance and services
+
